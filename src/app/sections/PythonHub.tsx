@@ -1,7 +1,7 @@
 import React from "react";
 
-const Notes = () => {
+const PythonHub = () => {
   return <div></div>;
 };
 
-export default Notes;
+export default PythonHub;
